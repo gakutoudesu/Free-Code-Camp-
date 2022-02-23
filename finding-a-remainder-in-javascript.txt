@@ -1,1 +1,0 @@
-const remainder = 2 % 4;

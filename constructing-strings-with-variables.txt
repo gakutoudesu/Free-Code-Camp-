@@ -1,3 +1,0 @@
-// Only change code below this line
-const myName = "GEBRNRN";
-const myStr = "RNRNRNTR" + myName + "brbrnbtnnt";

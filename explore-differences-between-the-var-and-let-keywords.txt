@@ -1,4 +1,0 @@
-let catName = "Oliver";
-let catSound = "Meow!";
-
-Let variable cant be overwrite
